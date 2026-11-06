@@ -18,7 +18,7 @@
 
 系统要求：macOS 26 及以上，Apple Silicon。
 
-1. 下载[最新版本](https://github.com/leadead/Kestrel-Releases/releases/latest)中的 `Kestrel-x.y.z.zip`
+1. 下载 [Kestrel.zip](https://github.com/leadead/Kestrel-Releases/releases/latest/download/Kestrel.zip)（[所有版本](https://github.com/leadead/Kestrel-Releases/releases)）
 2. 解压后把 Kestrel 拖入「应用程序」
 3. 打开后按引导授予屏幕录制、辅助功能权限，并启用 Finder 扩展
 
